@@ -267,7 +267,7 @@ const App = () => {
             </div>
 
             <footer className="mt-6 bg-blue-800 text-white p-4 rounded-lg shadow-lg text-center">
-                <p>© 2025 Robotics Explorer | Interactive Learning Resource</p>
+                <p>© 2025 Malek Hammoud</p>
             </footer>
         </div>
     );
