@@ -159,7 +159,7 @@ const App = () => {
                     <h3 className="text-xl font-bold mb-4 text-blue-700">Autonomous Litter Detection and Recovery System</h3>
                     <div>
                         <iframe
-                            src="https://malekhammoud.com/Autonomous_Litter_Detection_and_Recovery_System.pdf#zoom=80&toolbar=1&navpanes=0"
+                            src="https://malekhammoud.com/Autonomous_Litter_Detection_and_Recovery_System.pdf#zoom=110&toolbar=1&navpanes=0"
                             width="100%"
                             height="600px"
                             className="border border-gray-300 rounded"
